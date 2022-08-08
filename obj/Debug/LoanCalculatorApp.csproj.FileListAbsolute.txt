@@ -1,0 +1,11 @@
+C:\Users\theav\source\repos\LoanCalculatorApp\bin\Debug\LoanCalculatorApp.exe.config
+C:\Users\theav\source\repos\LoanCalculatorApp\bin\Debug\LoanCalculatorApp.exe
+C:\Users\theav\source\repos\LoanCalculatorApp\bin\Debug\LoanCalculatorApp.pdb
+C:\Users\theav\source\repos\LoanCalculatorApp\obj\Debug\LoanCalculatorApp.csproj.AssemblyReference.cache
+C:\Users\theav\source\repos\LoanCalculatorApp\obj\Debug\LoanCalculatorApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\theav\source\repos\LoanCalculatorApp\obj\Debug\LoanCalculatorApp.Form1.resources
+C:\Users\theav\source\repos\LoanCalculatorApp\obj\Debug\LoanCalculatorApp.Properties.Resources.resources
+C:\Users\theav\source\repos\LoanCalculatorApp\obj\Debug\LoanCalculatorApp.csproj.GenerateResource.cache
+C:\Users\theav\source\repos\LoanCalculatorApp\obj\Debug\LoanCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\theav\source\repos\LoanCalculatorApp\obj\Debug\LoanCalculatorApp.exe
+C:\Users\theav\source\repos\LoanCalculatorApp\obj\Debug\LoanCalculatorApp.pdb
